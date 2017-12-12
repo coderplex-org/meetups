@@ -97,6 +97,7 @@ Public list of ideas for meetups / events for our developer community
 
 ## Functional Programming 
 - Getting started with Haskell
+- Clojure 101
  
 ## Internet of Things
 - IoT 101 session
