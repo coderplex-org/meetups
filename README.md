@@ -57,6 +57,7 @@ Public list of ideas for meetups / events for our developer community
 	    - Natural Language Processing 
 	    - Image Processing
 	    - Reinforcement Learning
+	- Applications of Cognitive Computing
 	- Reading and Implementing Research Papers
 - Workshops
 - Hackathons
