@@ -115,3 +115,15 @@ Public list of ideas for meetups / events for our developer community
 - Hacker Month 2.0
 - Hour of Code across schools in Hyderabad
 - Cross college coding competition 
+
+## ASTs/Static Code Analysis tools
+- Exploring ASTs used in JS libraries and frameworks
+  - Babel transforms
+  - Codemods
+  - Webpack loaders, etc
+- Editor plugins
+  - Writing extensions for VSCode, Atom.
+
+## High Performance Computing
+- Libraries like Numba,Dask
+- GPU computing
