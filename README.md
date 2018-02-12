@@ -129,3 +129,12 @@ Public list of ideas for meetups / events for our developer community
 ## High Performance Computing
 - Libraries like Numba,Dask
 - GPU computing
+
+
+## Research
+
+- Latest research in CS
+- Doing Research in your chosen field
+  - Doing research
+  - Benifits of joining a ACM and/or IEEE Chanpter
+  - Writing a paper & getting it published
