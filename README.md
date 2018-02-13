@@ -15,6 +15,8 @@ Public list of ideas for meetups / events for our developer community
 - Modern JavaScript
 - Laravel sessions / workshops
 - Understanding and using GraphQL
+- UX - Making web accessible
+- Creating CSS framework
 
 ## React 
 - Working with React Higher Order Components
@@ -115,6 +117,7 @@ Public list of ideas for meetups / events for our developer community
 - Hacker Month 2.0
 - Hour of Code across schools in Hyderabad
 - Cross college coding competition 
+- Data Analytics Hackathon
 
 ## ASTs/Static Code Analysis tools
 - Exploring ASTs used in JS libraries and frameworks
