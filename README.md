@@ -136,5 +136,4 @@ Public list of ideas for meetups / events for our developer community
 - Latest research in CS
 - Doing Research in your chosen field
   - Doing research
-  - Benifits of joining a ACM and/or IEEE Chapter
   - Writing a paper & getting it published
