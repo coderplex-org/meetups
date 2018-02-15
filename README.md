@@ -84,7 +84,6 @@ Public list of ideas for meetups / events for our developer community
 - Scala / Clojure
 - Python / R
 - OCaml / Reason
-- Erlang / Elixer
 - Swift
 - Kotlin
 
@@ -103,15 +102,18 @@ Public list of ideas for meetups / events for our developer community
 ## Functional Programming 
 - Getting started with Haskell
 - Clojure 101
+- Erlang / Elixir
+- Elixir's Pheonix Framework
  
 ## Internet of Things
 - IoT 101 session
 - IoT Hackathon
 - Robotics workshop
 
-## AR/VR
-- Building VR Experiences 
-- Building AR Experiences 
+## Computer Graphics and Human-Computer Interaction(CG & HCI)
+- Intro to AR/VR/MR/XR - Past, Present and Future
+- Understanding AR and VR - Hardware,software and interaction
+- Building experiences with Unity
 
 ## General
 - Session on maintainable codebase and readability 
@@ -133,3 +135,11 @@ Public list of ideas for meetups / events for our developer community
 ## High Performance Computing
 - Libraries like Numba,Dask
 - GPU computing
+
+
+## Research
+
+- Latest research in CS
+- Doing Research in your chosen field
+  - Doing research
+  - Writing a paper & getting it published
