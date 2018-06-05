@@ -123,6 +123,8 @@ Public list of ideas for meetups / events for our developer community
 - Hour of Code across schools in Hyderabad
 - Cross college coding competition 
 - Data Analytics Hackathon
+- Interview Preparation 
+
 
 ## ASTs/Static Code Analysis tools
 - Exploring ASTs used in JS libraries and frameworks
