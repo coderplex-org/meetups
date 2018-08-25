@@ -145,3 +145,25 @@ Public list of ideas for meetups / events for our developer community
 - Doing Research in your chosen field
   - Doing research
   - Writing a paper & getting it published
+  
+ ## Cloud - 2 day events
+- AWS Compute Day
+- AWS Storage Day
+- AWS Networking day
+- AWS Security Day
+- AWS AI/ML Day
+- AWS Operations Day
+- AWS Devops Day
+- AWS Serverless Day
+- AWS IOT Day
+- AWS Design pattern Day
+
+#Devops - 2 day events
+- Jenkins - CI/CD
+- Configuration management - Chef
+- Configuration management - Ansible
+- Configuration management - Puppet
+- Docker
+- Kubernetes
+- GIT
+- Nagios
