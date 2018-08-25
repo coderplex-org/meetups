@@ -158,7 +158,7 @@ Public list of ideas for meetups / events for our developer community
 - AWS IOT Day
 - AWS Design pattern Day
 
-#Devops - 2 day events
+# Devops - 2 day events
 - Jenkins - CI/CD
 - Configuration management - Chef
 - Configuration management - Ansible
